@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TkLock", "TkLock\TkLock.csproj", "{89F45A6B-2EEC-49D0-B21B-8BFFFFB7C09A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89F45A6B-2EEC-49D0-B21B-8BFFFFB7C09A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89F45A6B-2EEC-49D0-B21B-8BFFFFB7C09A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89F45A6B-2EEC-49D0-B21B-8BFFFFB7C09A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89F45A6B-2EEC-49D0-B21B-8BFFFFB7C09A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
